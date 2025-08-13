@@ -7,7 +7,7 @@
 ```mermaid
 flowchart TD
     Start([🚀 开始]):::startClass --> Prepare[📋 准备工作]:::prepClass
-    Prepare --> EOA[🔑 提供 EOA 地址给 AlphaLabs]:::prepClass
+    Prepare --> EOA[🔑 提供 EOA 地址和 FW token 给 AlphaLabs]:::prepClass
     
     EOA --> Verify{✅ 邀请验证}:::decisionClass
     Verify -->|❌ 未通过| Denied([🚫 拒绝访问]):::errorClass

@@ -29,27 +29,26 @@ When registering, it's recommended to use the same EOA address for both platform
    - Submit your EOA address to AlphaLabs user for invitation verification
    - Deposit corresponding funds to the platform
 
-2. **✅ Activation**
+2. **🔑 Provide FW token**
+   - Regist and sumit your fw token：[🥣 link](https://fwalert.com/918826)
+   - Submit token for FW to AlphaLabs
+
+3. **✅ Activation**
    - Receive and activate your refer code (AlphaLabs API key)
 
-3. **🔧 Configuration**
+4. **🔧 Configuration**
    - Fill in API key
    - Set strategy parameters (parameter explanations will be provided in the community)
 
-4. **🌐 Platform Login**
+5. **🌐 Platform Login**
    - Log in to both platforms via browser
    - Ensure trading capability is enabled
    - Refresh both platforms
 
-5. **🎯 Launch Strategy**
+6. **🎯 Launch Strategy**
    - Click "Start Strategy" to begin automated trading
 
 [📊 View Configuration Flowchart](./plugin-configuration-flowchart-EN.md)
-
-## 🛡️ Anti-Piracy Statement
-
-1. **Cracked versions will malfunction**: Certain calculations will return incorrect values, causing strategy failure
-2. **Time-limited validity**: This version will expire within 15 days. Latest versions will only be updated through official community channels
 
 ## 💬 Support
 

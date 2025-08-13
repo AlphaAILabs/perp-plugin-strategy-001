@@ -7,7 +7,7 @@
 ```mermaid
 flowchart TD
     Start([🚀 Start]):::startClass --> Prepare[📋 Preparation]:::prepClass
-    Prepare --> EOA[🔑 Provide EOA Address to AlphaLabs]:::prepClass
+    Prepare --> EOA[🔑 Provide EOA Address and FW token to AlphaLabs]:::prepClass
     
     EOA --> Verify{✅ Invitation Verification}:::decisionClass
     Verify -->|❌ Rejected| Denied([🚫 Access Denied]):::errorClass

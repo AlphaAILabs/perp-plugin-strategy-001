@@ -3,6 +3,7 @@
 **English** | [中文](./README.md)
 
 ## 📌 Overview
+With the rise of HyperLiquid, the perps trading sector has established an unstoppable path. As a result, AlphaLabs has developed a related plugin to help community members automate their trades across various perps platforms, aiming to maximize trading volume and platform points with the least possible market friction.
 
 This plugin is an AlphaLabs product designed to automate trading on edgeX and Variational platforms.
 

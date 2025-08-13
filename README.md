@@ -4,6 +4,8 @@
 
 ## 📌 概述
 
+随着HyperLiquid的崛起，Perps这条赛道已经走出了一条不可阻挡的道路，因此AlphaLabs开发相关插件，便利社区成员在不同Perps平台进行自动化交易，并以尽可能最小的行业磨损获得交易量和平台积分。
+
 本插件是 AlphaLabs 的产品，目的是自动化在 edgeX 和 Variational 交易。
 
 ## ⚠️ 重要声明

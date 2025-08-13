@@ -14,13 +14,13 @@
 
 点击页面右上角的 **Launch App** 按钮，进入 edgeX 交易面板。
 
-![Launch App](https://sgp1.vultrobjects.com/wiki/uploads/bbf2a821-d68d-444a-80b6-f89ed1274b3e/202fe8da-c06e-4235-8081-3182bc65b3c5/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=V0NP6BKHQNBPEKUVH3M0/20250813/sgp1/s3/aws4_request&X-Amz-Date=20250813T052653Z&X-Amz-Expires=300&X-Amz-Signature=71f6b2554020819c2e04b99a1d802cb7cfa6c436099aa783eb1b30061ac89d00&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![Launch App](https://sgp1.vultrobjects.com/wiki/uploads/bbf2a821-d68d-444a-80b6-f89ed1274b3e/202fe8da-c06e-4235-8081-3182bc65b3c5/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=V0NP6BKHQNBPEKUVH3M0/20250813/sgp1/s3/aws4_request&X-Amz-Date=20250813T054623Z&X-Amz-Expires=300&X-Amz-Signature=f58d0162a7e4a9ec53f159164d9c3f7c6a5844afd1d692d867699449b773e4f3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ### 3️⃣ 连接钱包
 
 点击 **Connect Wallet** 按钮，选择您的钱包类型并完成授权。
 
-![Connect Wallet](https://sgp1.vultrobjects.com/wiki/uploads/bbf2a821-d68d-444a-80b6-f89ed1274b3e/5d79985a-b743-4250-8346-98221855e66b/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=V0NP6BKHQNBPEKUVH3M0%2F20250813%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20250813T052743Z&X-Amz-Expires=300&X-Amz-Signature=50eefeaad2cdd04574b5eba6361e12ec275688646f58ccfe62bc733564fd3a22&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![Connect Wallet](https://sgp1.vultrobjects.com/wiki/uploads/bbf2a821-d68d-444a-80b6-f89ed1274b3e/5d79985a-b743-4250-8346-98221855e66b/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=V0NP6BKHQNBPEKUVH3M0/20250813/sgp1/s3/aws4_request&X-Amz-Date=20250813T054643Z&X-Amz-Expires=300&X-Amz-Signature=8290e29e54520ac04c03b659899b7fc19059bde2fc870554d3b579f691dc67b7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ### 4️⃣ 充值资金
 
@@ -31,7 +31,7 @@
 - ✅ Ethereum
 - ✅ BNB Chain
 
-![Deposit](https://sgp1.vultrobjects.com/wiki/uploads/bbf2a821-d68d-444a-80b6-f89ed1274b3e/0c817f32-38e3-4bfe-abe8-341b4bd67e4a/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=V0NP6BKHQNBPEKUVH3M0%2F20250813%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20250813T052759Z&X-Amz-Expires=300&X-Amz-Signature=4b399c704216b88c8800e752770a0ac6ca12e65a70bd22f74f28590675d03496&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![Deposit](https://sgp1.vultrobjects.com/wiki/uploads/bbf2a821-d68d-444a-80b6-f89ed1274b3e/0c817f32-38e3-4bfe-abe8-341b4bd67e4a/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=V0NP6BKHQNBPEKUVH3M0/20250813/sgp1/s3/aws4_request&X-Amz-Date=20250813T054702Z&X-Amz-Expires=300&X-Amz-Signature=4d3e7500c175f412a9f79ddc9b0ac1a6fe80b5910d47c524f569a975e01455c1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ## ⚠️ 注意事项
 

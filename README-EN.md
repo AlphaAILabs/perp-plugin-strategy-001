@@ -63,7 +63,7 @@ When registering, it's recommended to use the same EOA address for both platform
    - Open the plugin to configure parameters
    - **Recommended Settings**:
      - Default parameters work for most cases
-     - For more frequent position opening/closing, set gain value less than -40
+     - A suggested gain value is -55. If you need to open and close positions frequently, you can set the gain value to less than -55.
    - **⚠️ Important**: Platform leverage must match plugin leverage setting, otherwise errors will occur
 
 6. **🚀 Launch Strategy**

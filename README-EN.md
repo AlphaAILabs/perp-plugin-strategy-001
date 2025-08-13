@@ -25,28 +25,49 @@ When registering, it's recommended to use the same EOA address for both platform
 
 ## ⚙️ Plugin Configuration Tutorial
 
+### Preparation Phase
+
 1. **🔑 Provide EOA Address**
    - Submit your EOA address to AlphaLabs user for invitation verification
    - Deposit corresponding funds to the platform
 
 2. **🔑 Provide FW token**
-   - Regist and sumit your fw token：[🥣 link](https://fwalert.com/918826)
-   - Submit token for FW to AlphaLabs
+   - Register and submit your FW token: [🥣 Registration Link](https://fwalert.com/918826)
+   - Submit FW token to AlphaLabs
 
 3. **✅ Activation**
    - Receive and activate your refer code (AlphaLabs API key)
 
-4. **🔧 Configuration**
-   - Fill in API key
-   - Set strategy parameters (parameter explanations will be provided in the community)
+### Plugin Operation Steps
 
-5. **🌐 Platform Login**
-   - Log in to both platforms via browser
-   - Ensure trading capability is enabled
-   - Refresh both platforms
+1. **📥 Download Plugin**
+   - Download the plugin package provided by AlphaLabs
 
-6. **🎯 Launch Strategy**
-   - Click "Start Strategy" to begin automated trading
+2. **🔓 Get Extraction Password**
+   - Obtain the extraction password from [AlphaLabs TG](https://t.me/+BvsYrO40sxxkMmY1) group
+   - Extract the plugin files
+
+3. **🔧 Install Plugin**
+   - Open Chrome browser and navigate to Extensions (chrome://extensions/)
+   - Enable "Developer mode" in the top right corner
+   - Click "Load unpacked" in the top left
+   - Select the extracted plugin folder
+
+4. **🌐 Login to Platforms**
+   - Open two new tabs in the same browser
+   - Login to edgeX and Variational platforms respectively
+   - Complete fund deposits
+
+5. **⚙️ Strategy Parameters Configuration**
+   - Open the plugin to configure parameters
+   - **Recommended Settings**:
+     - Default parameters work for most cases
+     - For more frequent position opening/closing, set gain value less than -40
+   - **⚠️ Important**: Platform leverage must match plugin leverage setting, otherwise errors will occur
+
+6. **🚀 Launch Strategy**
+   - Click "Start Strategy" button to run
+   - **Debugging**: Right-click plugin icon → Inspect → View console output
 
 [📊 View Configuration Flowchart](./plugin-configuration-flowchart-EN.md)
 
